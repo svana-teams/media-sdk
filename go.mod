@@ -1,4 +1,4 @@
-module github.com/livekit/media-sdk
+module github.com/svana-teams/media-sdk
 
 go 1.24.2
 
